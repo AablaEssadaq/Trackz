@@ -21,7 +21,7 @@ Check out the deployed version here:
 If you want to run it locally:
 
 ```bash
-git clone https://github.com/your-username/trackz-landing.git
+git clone https://github.com/AablaEssadaq/trackz-landing.git
 cd trackz-landing
 npm install
 npm run dev
