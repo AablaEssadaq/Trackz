@@ -38,7 +38,7 @@ export const metadata = {
   title: "Trackz",
   description: "CMR that works for you, not the other way around.",
   icons: {
-    icon: "./favicon.ico",
+    icon: "/favicon.ico",
   },
   openGraph: {
     title: "Trackz",
